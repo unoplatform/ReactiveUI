@@ -33,7 +33,7 @@ namespace ReactiveUI.Uno
             ////registerFunction(() => new WinRTAppDataDriver(), typeof(ISuspensionDriver));
 
 #if NETSTANDARD
-            if (WasmPlatformEnlightenmentProvider.IsWasm)
+            if (LOCALWasmPlatformEnlightenmentProvider.IsWasm)
             {
                 RxApp.TaskpoolScheduler = WasmScheduler.Default;
                 RxApp.MainThreadScheduler = WasmScheduler.Default;
