@@ -31,7 +31,7 @@ There has been an excellent <a href="https://kent-boogaart.com/you-i-and-reactiv
  
 <h2>Introduction to Reactive Programming</h2>
 
-Long ago, when computer programming first came to be, machines had to be programmed quite manually. If the technician entered the correct sequence of machine codes in the correct order, then the resulting program behavior would satisfy the business requirements. Instead of telling a computer how to do its job, which error-prone and relies too heavily on the infallibility of the programmer, why don't we just tell it what it's job is and let it figure the rest out?
+Long ago, when computer programming first came to be, machines had to be programmed quite manually. If the technician entered the correct sequence of machine codes in the correct order, then the resulting program behavior would satisfy the business requirements. Instead of telling a computer how to do its job, which error-prone and relies too heavily on the infallibility of the programmer, why don't we just tell it what its job is and let it figure the rest out?
 
 ReactiveUI is inspired by the paradigm of Functional Reactive Programming, which allows you to model user input as a function that changes over time. This is super cool because it allows you to abstract mutable state away from your user interfaces and express the idea around a feature in one readable place whilst improving application testability. Reactive programming can look scary and complex at first glance, but the best way to describe reactive programming is to think of a spreadsheet:
 
@@ -41,7 +41,7 @@ ReactiveUI is inspired by the paradigm of Functional Reactive Programming, which
 * C is defined as the sum of A and B.
 * Whenever A or B changes, C reacts to update itself.
 
-That's reactive programming: changes propagate throughout a system automatically. Welcome to the peanut butter and jelly of programming paradigms. For further information please watch the this video from the Xamarin Evolve conference - [Why You Should Be Building Better Mobile Apps with Reactive Programming](http://www.youtube.com/watch?v=DYEbUF4xs1Q) by Michael Stonis.
+That's reactive programming: changes propagate throughout a system automatically. Welcome to the peanut butter and jelly of programming paradigms. For further information please watch this video from the Xamarin Evolve conference - [Why You Should Be Building Better Mobile Apps with Reactive Programming](http://www.youtube.com/watch?v=DYEbUF4xs1Q) by Michael Stonis.
 
 <h2>NuGet Packages</h2>
 
@@ -268,7 +268,7 @@ If you have discovered a 🐜 or have a feature suggestion, feel free to create 
 
 ReactiveUI is developed under an OSI-approved open source license, making it freely usable and distributable, even for commercial use. Because of our Open Collective model for funding and transparency, we are able to funnel support and funds through to our contributors and community. We ❤ the people who are involved in this project, and we’d love to have you on board, especially if you are just getting started or have never contributed to open-source before.
 
-So here's to you, lovely person who wants to join us — this is how you can support us:
+So, here's to you, lovely person who wants to join us — this is how you can support us:
 
 * [Responding to questions on StackOverflow](https://stackoverflow.com/questions/tagged/reactiveui)
 * [Passing on knowledge and teaching the next generation of developers](http://ericsink.com/entries/dont_use_rxui.html)
